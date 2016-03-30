@@ -1,0 +1,32 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "my packages",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "mongoose": "^4.4.10",
+    "node-uuid": "^1.4.7",
+    "socket.io": "^1.4.5",
+    "gridform": "^0.1.7",
+    "gridfs-stream": "^1.1.1",
+    "nodemailer": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "p"
+  ],
+  "author": "liubing",
+  "license": "ISC"
+}
